@@ -1,4 +1,4 @@
-package com.test.v3;
+package com.test;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -6,8 +6,6 @@ import android.view.KeyEvent;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.test.R;
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();

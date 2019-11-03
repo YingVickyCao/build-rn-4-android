@@ -1,4 +1,4 @@
-package com.test.v3;
+package com.test;
 
 import android.view.KeyEvent;
 
