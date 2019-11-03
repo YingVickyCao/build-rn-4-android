@@ -1,4 +1,4 @@
-package com.test;
+package com.github.yingvikcycao.buildrn;
 
 import android.view.KeyEvent;
 
